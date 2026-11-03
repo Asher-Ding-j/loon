@@ -1,0 +1,7 @@
+
+# NAME: IBKR
+# DESCRIPTION: Interactive Brokers Direct Rules
+
+# IBKR Main Domains
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,ibkr.com
